@@ -42,11 +42,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JanuaryStringCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="READMES\01 - January.README.md" />
+    <None Include="READMES\02 - February.README.md" />
+    <None Include="READMES\03 - March.README.md" />
+    <None Include="READMES\04 - April.README.md" />
+    <None Include="READMES\05 - May.README.md" />
+    <None Include="READMES\06 - Juny.README.md" />
+    <None Include="READMES\07 - July.README.md" />
+    <None Include="READMES\08 - August.README.md" />
+    <None Include="READMES\09 - September.README.md" />
+    <None Include="READMES\10 - October.README.md" />
+    <None Include="READMES\11 - November.README.md" />
+    <None Include="READMES\12 - December.README.md" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
